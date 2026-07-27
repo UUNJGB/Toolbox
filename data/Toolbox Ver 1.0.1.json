@@ -1,0 +1,130 @@
+{
+  "name": "Toolbox",
+  "subtitle": "A source for all of my apps",
+  "description": "ToolBox is a simple and reliable source for discovering useful apps, tools, and utilities. Browse, explore, and find everything you need in one place. 🔨\n",
+  "iconURL": "https://i.imgur.com/3ZCGW87.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.roblox.delta",
+    "com.mojang.minecraftpe",
+    "com.kiloo.subwaysurfers"
+  ],
+  "apps": [
+    {
+      "name": "Subway Surfers iOS Mod IPA",
+      "bundleIdentifier": "com.kiloo.subwaysurfers",
+      "marketplaceID": "",
+      "developerName": "Sybo Games ApS",
+      "subtitle": "Subway Surfers mod",
+      "localizedDescription": "Sprint through subway tunnels and dodge oncoming trains in Subway Surfers iOS Mod IPA, a free hack that lets you unlock premium content and customize your run without spending real money.\n\nWith this modded version, you gain instant access to character outfits, adjust your jump height to match your playstyle, and experiment with no-clip mechanics for a fresh take on the endless-runner chase. Whether you're chasing high scores or exploring the game's hidden possibilities, this hack removes the paywall so you can focus on the thrill of the escape.\n\nHack Features\n- Free Store (not Free iAP) → shop without in-app purchases\n- Free iAP (ViP Only) → premium items at no cost\n- Unlock Characters Outfit → access all cosmetic skins instantly\n- Custom Jump Height → adjust your leap distance to suit your strategy\n- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose) → phase through obstacles for experimental play\n\n This app also comes with iGameGod, giving you access to Auto Touch to automate repetitive tasks, App Speed Manager for adjustable gameplay speed, Memory Engine value editing, and more powerful iOS game tools.",
+      "iconURL": "https://i.imgur.com/A0eRnUQ.png",
+      "tintColor": "#6156e2",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://downloads.iosgods.com/1649/subway-surfers-ios-mod-ipa-xPSeVuJhqh.ipa?hmacmessage=%2F1649%2Fsubway-surfers-ios-mod-ipa-xPSeVuJhqh.ipa%3Fverify%3D1784998747-M%252FgBTRMrA314uXjnQcjVRnFKZgqPth8RFkl5Atb%252FQGE%253D&filename=attachment%3B+filename%3D%22Subway+Surfers+iOS+Mod+IPA+No+Jailbreak+Cheats+3.66.1+Hacked+IPA+by+iOSGods.com.ipa%22%3B+filename%2A%3DUTF-8%27%27Subway%2520Surfers%2520iOS%2520Mod%2520IPA%2520No%2520Jailbreak%2520Cheats%25203.66.1%2520Hacked%2520IPA%2520by%2520iOSGods.com.ipa",
+          "size": 225000000,
+          "version": "3.66.1",
+          "buildVersion": "",
+          "date": "2026-07-25T16:59:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": "13.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "Mojang Studios",
+      "subtitle": "Minecraft PE",
+      "localizedDescription": "Minecraft PE / Bedrock Edition",
+      "iconURL": "https://i.imgur.com/T4Ul2hQ.png",
+      "tintColor": "#6156e2",
+      "category": "games",
+      "screenshots": {
+        "iphone": [],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/tg1Yq0l.png",
+            "width": 1290,
+            "height": 726
+          },
+          {
+            "imageURL": "https://i.imgur.com/5dhLGRJ.png",
+            "width": 1290,
+            "height": 726
+          }
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://downloads.iosgods.com/377/minecraft-CYxJpDp4uF.ipa?hmacmessage=%2F377%2Fminecraft-CYxJpDp4uF.ipa%3Fverify%3D1784998318-cnJQhWVt9vyXSPkss3VkSX6aUJlt5kA5oBPHwifZpVs%253D&filename=attachment%3B+filename%3D%22Minecraft+No+Jailbreak+Cheats+26.13+Hacked+IPA+by+iOSGods.com.ipa%22%3B+filename%2A%3DUTF-8%27%27Minecraft%2520No%2520Jailbreak%2520Cheats%252026.13%2520Hacked%2520IPA%2520by%2520iOSGods.com.ipa",
+          "size": 600000000,
+          "version": "26.13",
+          "buildVersion": "",
+          "date": "2026-07-25T16:52:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": "13.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Delta Executor",
+      "bundleIdentifier": "com.roblox.delta",
+      "marketplaceID": "",
+      "developerName": "ItzOwlix",
+      "subtitle": "Delta Executor",
+      "localizedDescription": "Delta Executor Script Panel for Roblox\nHacks",
+      "iconURL": "https://i.imgur.com/D40nhHb.png",
+      "tintColor": "#6156e2",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://deltaexploits.gg/assets/android.webp",
+            "width": 1650,
+            "height": 1262
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://deltaexploits.gg/assets/android.webp",
+            "width": 1650,
+            "height": 1262
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-07-25T15:58:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://deltaexploits.gg/delta-executor-ios",
+          "size": 138700000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
